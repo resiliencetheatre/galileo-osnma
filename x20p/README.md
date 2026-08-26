@@ -1,6 +1,9 @@
 # X20P Galileo OSNMA Monitor
 
 
+![Intro picture](osnma.png "osnma")
+
+
 Note: This project currently contains AI-generated code and documentation; no complete human review or independent verification against the official Galileo OSNMA and u-blox X20P specifications has yet been performed.
 
 Linux command-line utility for provisioning Galileo OSNMA cryptographic
